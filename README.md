@@ -15,7 +15,7 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gigivieira23&show_icons=true&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gigivieira23&theme=tokyonight)
 
 ---
 
