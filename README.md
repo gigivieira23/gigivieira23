@@ -1,4 +1,4 @@
-## Oi, eu sou a Gigi 👋
+## Oi, eu sou a Gio 👋
 
 💻 Iniciante em desenvolvimento front-end  
 🚀 Atualmente aprendendo **HTML, CSS e JavaScript**  
